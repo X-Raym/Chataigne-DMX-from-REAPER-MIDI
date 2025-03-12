@@ -1,6 +1,8 @@
 # Chataigne Projects - DMX from REAPER MIDI
 
-* Article: [ExtremRaym - Tutorial: Light Shows from REAPER with Custom JSFX](https://www.extremraym.com/tutorial-light-shows-from-reaper-with-custom-jsfx/)
+## Article
+
+* [ExtremRaym - Tutorial: Light Shows from REAPER with Custom JSFX](https://www.extremraym.com/tutorial-light-shows-from-reaper-with-custom-jsfx/)
 
 ## Softwares
 * [REAPER](https://www.reaper.fm)
