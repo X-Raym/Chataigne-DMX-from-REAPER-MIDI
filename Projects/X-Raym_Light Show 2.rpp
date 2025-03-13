@@ -1,0 +1,635 @@
+<REAPER_PROJECT 0.1 "7.34/win64" 1741739496
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 0
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 0.25 8 1 0 0 0
+  TIMEMODE 1 2 -1 25 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 140.75532577886136 0 0
+  VZOOMEX 4.50972843 0
+  USE_REC_CFG 1
+  RECMODE 1
+  SMPTESYNC 0 25 100 40 1000 300 0 0 1 0 0
+  MIDIEDITOR 1063452710 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "Audio" "Records"
+  <RECORD_CFG
+    ZXZhdxgGAA==
+  >
+  <APPLYFX_CFG
+    ZXZhdyAAAA==
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN untitled
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 16 1000
+  RENDER_RESAMPLE 10 10 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgDAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 1 1
+    BEATLEN 4
+    FREQ 1600 800 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 1
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 -1 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <POOLEDENV
+    ID 1
+    NAME "1"
+    SRCLEN 4
+    LFO 0 0 0 0 0 0 0
+    PPT 0 1 0 0 
+    PPT 3.999998 1 0 0 
+  >
+  <POOLEDENV
+    ID 2
+    NAME "2"
+    SRCLEN 4
+    LFO 0 0 0 0 0 0 0
+    PPT 0 1 0 0 
+    PPT 3.999998 0 0 0 
+  >
+  <POOLEDENV
+    ID 3
+    NAME "3"
+    SRCLEN 4
+    LFO 0 0 0 0 0 0 0
+    PPT 0 1 0 0 
+    PPT 3.999998 0 0 0 
+  >
+  <POOLEDENV
+    ID 4
+    NAME "4"
+    SRCLEN 4
+    LFO 0 0 0 0 0 0 0
+    PPT 0 1 0 0 
+    PPT 3.999998 0 0 0 
+  >
+  <POOLEDENV
+    ID 5
+    NAME "5"
+    SRCLEN 4
+    LFO 0 0 0 0 0 0 0
+    PPT 0 1 0 0 
+    PPT 3.999998 0 0 0 
+  >
+  <POOLEDENV
+    ID 6
+    NAME "6"
+    SRCLEN 4
+    LFO 0 0 0 0 0 0 0
+    PPT 0 1 0 0 
+    PPT 3.999998 0 0 0 
+  >
+  <POOLEDENV
+    ID 7
+    NAME "7"
+    SRCLEN 4
+    LFO 0 0 0 0 0 0 0
+    PPT 0 1 0 0 
+    PPT 3.999998 0 0 0 
+  >
+  <MASTERPLAYSPEEDENV
+    EGUID {E5182476-E855-4472-9A04-440147249FD0}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {385705B7-32FD-45DF-9B08-E18E65E315A0}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {410E7EC5-15C4-46DB-8099-29E939DEDCF5}
+    NAME Lights
+    PEAKCOL 16831957
+    BEAT -1
+    AUTOMODE 2
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 5088 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {410E7EC5-15C4-46DB-8099-29E939DEDCF5}
+    PERF 2
+    MIDIOUT 64
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 614 259 829 728
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS "X-Raym_DMX Lights MIDI controller.jsfx" ""
+        0 1 -1 50 0.5 -1 2 1 2 3 4 0 0 0 0 0 0 -1 -1 1 0.25 0.25 0 100 100 100 100 100 100 100 100 1 0.75 0.25 90 100 100 100 100 100 100 100 100 1 0.25 0.75 180 100 100 100 100 100 100 100 100 1 0.75 0.75 270 100 100 100 100 100 "" 100 100 100 1 0.5 0.5 0 100 100 100 100 100 100 100 100 0 0.5 0.5 0 100 100 100 100 100 100 100 100 0 0.5 0.5 0 100 100 100 100 100 100 100 100 0 0.5 0.5 0 100 100 100 100 100 100 100 100 0 0.5 0.5 0 100 100 100 100 100 100 100 100 0 0.5 0.5 0 100 100 100 100 100 100 100 100 0 0.5 0.5 0 100 100 100 100 100 100 100 100 0 0.5 0.5 0 100 100 100 100 100 100 100 100 0 0.5 0.5 0 100 100 100 100 100 100 100 100 0 0.5 0.5 0 100 100 100 100 100 100 100 100 0 0.5 0.5 0 100 100 100 100 100 100 100 100 0 0.5 0.5 0 100 100 100 100 100 100 100 100
+      >
+      JS_DIMS 583 642
+      FLOAT 1044 84 599 681
+      FXID {61047B71-D595-46B1-AD0C-48D873145B9F}
+      <PARMENV 24 0 100 50 "Light 01 - Intensity / DMX Lights MIDI controller"
+        EGUID {D307ED5D-793B-4214-839E-2E86E8E0F1C5}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        POOLEDENVINST 7 0 2 0 1 0 0.5 1 1 0 0 13 0 0 0.012 0
+        PT 2.000001 2.5 0
+      >
+      <PARMENV 36 0 100 50 "Light 02 - Intensity / DMX Lights MIDI controller"
+        EGUID {16978984-6462-40B3-85CA-CF653D841AA6}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        POOLEDENVINST 7 0 2 0 1 0 0.5 1 1 0 0 14 0 0 0.012 0
+        PT 0 0 0
+      >
+      <PARMENV 48 0 100 50 "Light 03 - Intensity / DMX Lights MIDI controller"
+        EGUID {922CC218-EC49-4C2F-8773-9F94356D4EEC}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        POOLEDENVINST 7 0 2 0 1 0 0.5 1 1 0 0 15 0 0 0.012 0
+        PT 0 0 0
+      >
+      <PARMENV 60 0 100 50 "Light 04 - Intensity / DMX Lights MIDI controller"
+        EGUID {160B4597-C9A0-41F0-92F0-4D616A984B7F}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        POOLEDENVINST 7 0 2 0 1 0 0.5 1 1 0 0 16 0 0 0.012 0
+        PT 0 0 0
+      >
+      <PARMENV 72 0 100 50 "Light 05 - Intensity / DMX Lights MIDI controller"
+        EGUID {2D75F9FB-750C-44AD-83A4-06340CAD83F6}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        POOLEDENVINST 7 0 2 0 1 0 0.5 1 1 0 0 17 0 0 0.012 0
+        PT 0 0 0
+      >
+      <PARMENV 84 0 100 50 "Light 06 - Intensity / DMX Lights MIDI controller"
+        EGUID {86835B26-6445-4A6C-9D1F-9418DE6C1403}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 96 0 100 50 "Light 07 - Intensity / DMX Lights MIDI controller"
+        EGUID {FB215E82-E391-4C01-8B98-4E4259997CB3}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 108 0 100 50 "Light 08 - Intensity / DMX Lights MIDI controller"
+        EGUID {97AAE85B-5AD5-43C3-AC2D-411316093937}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 120 0 100 50 "Light 09 - Intensity / DMX Lights MIDI controller"
+        EGUID {EF670481-7F46-4D97-BBCB-91ED4FF490F9}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 132 0 100 50 "Light 10 - Intensity / DMX Lights MIDI controller"
+        EGUID {21C30770-6AF9-4A5D-A3BC-B94A416CE92C}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 144 0 100 50 "Light 11 - Intensity / DMX Lights MIDI controller"
+        EGUID {2636C260-23A5-483C-B6DE-36C530C1C127}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 156 0 100 50 "Light 12 - Intensity / DMX Lights MIDI controller"
+        EGUID {7F22DC55-E647-44B6-B45A-487F20D43FE1}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 168 0 100 50 "Light 13 - Intensity / DMX Lights MIDI controller"
+        EGUID {7C70EFB9-D38C-4260-94E9-ACBD845E0B72}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 180 0 100 50 "Light 14 - Intensity / DMX Lights MIDI controller"
+        EGUID {BE2811BD-8E43-4F03-B9CD-DF804DC3A99D}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 192 0 100 50 "Light 15 - Intensity / DMX Lights MIDI controller"
+        EGUID {877F9495-27FD-452A-A2D2-286C5B6978A9}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 204 0 100 50 "Light 16 - Intensity / DMX Lights MIDI controller"
+        EGUID {EB79EFCD-297F-46DB-9D8F-A2B3A77E2DF5}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 23 0 100 50 "Light 01 - Saturation / DMX Lights MIDI controller"
+        EGUID {7ACD1051-3BBD-4C82-97BB-9C3BFEF0D922}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 35 0 100 50 "Light 02 - Saturation / DMX Lights MIDI controller"
+        EGUID {EAED3874-D137-4EA3-8DC1-9ADDEC90E4F6}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 47 0 100 50 "Light 03 - Saturation / DMX Lights MIDI controller"
+        EGUID {CC363FDA-3EB2-4C08-86C0-3671E032C0F6}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 59 0 100 50 "Light 04 - Saturation / DMX Lights MIDI controller"
+        EGUID {B7768D31-DE27-4A7D-BF9E-22C33F7BA749}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 71 0 100 50 "Light 05 - Saturation / DMX Lights MIDI controller"
+        EGUID {514CBD57-22A1-4A0F-8254-2FD2F7120DA7}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 83 0 100 50 "Light 06 - Saturation / DMX Lights MIDI controller"
+        EGUID {0468B788-0F46-44A8-B1F3-6A1194043645}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 95 0 100 50 "Light 07 - Saturation / DMX Lights MIDI controller"
+        EGUID {DC7ED04B-26D6-43D6-BB50-49A5EA2A4AA3}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 107 0 100 50 "Light 08 - Saturation / DMX Lights MIDI controller"
+        EGUID {F92738E4-66C7-4AC2-908E-12F2B7166D11}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 119 0 100 50 "Light 09 - Saturation / DMX Lights MIDI controller"
+        EGUID {B6087C2C-77A7-44BE-BB67-A0140F6DAE1C}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 131 0 100 50 "Light 10 - Saturation / DMX Lights MIDI controller"
+        EGUID {C5E1262B-340A-41BC-AC0E-6D196137130D}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 143 0 100 50 "Light 11 - Saturation / DMX Lights MIDI controller"
+        EGUID {6D6DC0D9-A667-4770-8EA4-22C5B01F414C}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 155 0 100 50 "Light 12 - Saturation / DMX Lights MIDI controller"
+        EGUID {2DE7E614-44ED-4522-B9A1-374BE7B87AF4}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 167 0 100 50 "Light 13 - Saturation / DMX Lights MIDI controller"
+        EGUID {AEEF2E99-6890-4813-87AA-D8E21501A4AB}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 179 0 100 50 "Light 14 - Saturation / DMX Lights MIDI controller"
+        EGUID {A99B5A49-5CE0-4DB0-BD10-CFE6A192BA59}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 191 0 100 50 "Light 15 - Saturation / DMX Lights MIDI controller"
+        EGUID {862A2EAC-FADB-4ECF-B169-A91C31286B97}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 203 0 100 50 "Light 16 - Saturation / DMX Lights MIDI controller"
+        EGUID {6C9A4E08-2876-4493-BBB9-0A6DC701D0A4}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 100 0
+      >
+      <PARMENV 22 0 360 180 "Light 01 - Hue / DMX Lights MIDI controller"
+        EGUID {9D40FDEC-EF70-4287-B8C7-42EA61447E1E}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+      >
+      <PARMENV 34 0 360 180 "Light 02 - Hue / DMX Lights MIDI controller"
+        EGUID {8471279B-2E4B-476A-A23B-AB3FAADB17A7}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 90 0
+      >
+      <PARMENV 46 0 360 180 "Light 03 - Hue / DMX Lights MIDI controller"
+        EGUID {2173567B-ECDD-49F9-B724-576090DB8353}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 180 0
+      >
+      <PARMENV 58 0 360 180 "Light 04 - Hue / DMX Lights MIDI controller"
+        EGUID {99146A7C-E2FE-4B7D-BB1C-A8FDAAB3A384}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 270 0
+      >
+      <PARMENV 70 0 360 180 "Light 05 - Hue / DMX Lights MIDI controller"
+        EGUID {A6C46E9E-DD75-455C-A192-BB5AABE23081}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+      >
+      <PARMENV 82 0 360 180 "Light 06 - Hue / DMX Lights MIDI controller"
+        EGUID {38050539-480D-47FE-9CC1-2D9C8E1FD116}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+      >
+      <PARMENV 94 0 360 180 "Light 07 - Hue / DMX Lights MIDI controller"
+        EGUID {804730A4-BB2A-443D-9C48-1BBF16175E0E}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+      >
+      <PARMENV 106 0 360 180 "Light 08 - Hue / DMX Lights MIDI controller"
+        EGUID {C33EF199-B2B7-45A5-859E-15F3E5A47545}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+      >
+      <PARMENV 118 0 360 180 "Light 09 - Hue / DMX Lights MIDI controller"
+        EGUID {6F49AFFC-5D57-427C-A562-796DE4BC06EE}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+      >
+      <PARMENV 130 0 360 180 "Light 10 - Hue / DMX Lights MIDI controller"
+        EGUID {27D1C82B-7E42-4FE5-9CD1-CD26379A35EE}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+      >
+      <PARMENV 142 0 360 180 "Light 11 - Hue / DMX Lights MIDI controller"
+        EGUID {BC0AE5CF-0321-4E6C-9BD8-01FF296CA839}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+      >
+      <PARMENV 154 0 360 180 "Light 12 - Hue / DMX Lights MIDI controller"
+        EGUID {1A9D2EAA-8621-4E02-A852-2DF5B809B48A}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+      >
+      <PARMENV 166 0 360 180 "Light 13 - Hue / DMX Lights MIDI controller"
+        EGUID {04E1F48C-1249-46A6-AE8E-8AA34D44BD70}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+      >
+      <PARMENV 178 0 360 180 "Light 14 - Hue / DMX Lights MIDI controller"
+        EGUID {70B50D4F-6A04-4E53-A565-786AC7368EF2}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+      >
+      <PARMENV 190 0 360 180 "Light 15 - Hue / DMX Lights MIDI controller"
+        EGUID {512F4A04-2269-4AB5-9A81-9290AE9C1C26}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+      >
+      <PARMENV 202 0 360 180 "Light 16 - Hue / DMX Lights MIDI controller"
+        EGUID {CF2FC493-9852-4DF1-90E6-085BF6827699}
+        ACT 0 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+      >
+      WAK 0 0
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
+      {410E7EC5-15C4-46DB-8099-29E939DEDCF5} 0 "" "" ""
+    >
+  >
+>
