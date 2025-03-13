@@ -11,4 +11,6 @@
 
 ## Projects Templates
 
-* `X-Raym_MIDI 14 bits to 5 HSI DMX 16 bits.noisette`: Designed for 4 Nanlite Pavotube II XR and 1 Kelvin Play Pro
+### X-Raym_MIDI 14 bits to 5 HSI DMX 16 bits.noisette
+
+Designed for 4 Nanlite Pavotube II XR and 1 Kelvin Play Pro
